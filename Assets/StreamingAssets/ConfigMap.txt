@@ -1,0 +1,16 @@
+BankManager=BankPrefab/BankManager
+SaveRecordBtn=BankPrefab/SaveRecordBtn
+Choose=Dialogue/Choose
+DialogueCanvas=Dialogue/DialogueCanvas
+DialogueManager=Dialogue/DialogueManager
+NewGameGuide=Dialogue/NewGameGuide
+BankruptcyPrefab=InventoryPrefab/BankruptcyPrefab
+Commodity=InventoryPrefab/Commodity
+DelePrefab=InventoryPrefab/DelePrefab
+Shop=InventoryPrefab/Shop
+Slot=InventoryPrefab/Slot
+0=MapsPrefab/0
+transportItem=MapsPrefab/transportItem
+MessageText=MessageTool/MessageText
+Panel=Panel
+Event=ReceptionRoomPrefab/Event

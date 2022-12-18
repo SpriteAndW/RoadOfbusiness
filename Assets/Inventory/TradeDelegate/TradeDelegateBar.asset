@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c767ee9ffa4d9f4bb9eb62c4f13d178, type: 3}
+  m_Name: TradeDelegateBar
+  m_EditorClassIdentifier: 
+  delegateBar:
+  - {fileID: 11400000, guid: fdf746ac4e1ea5c4d9d3bf39c8f9a9f8, type: 2}
+  - {fileID: 11400000, guid: 9698e7846df35e94cafe6ba8a846d0f2, type: 2}
+  - {fileID: 11400000, guid: cfe960d365de5444e9b0a5d83a4b3519, type: 2}
+  - {fileID: 11400000, guid: 88d55426fe30a8549864cbeed2deb05c, type: 2}
+  - {fileID: 11400000, guid: 62481d8f94d0da64bba08bc4ccad3ba1, type: 2}

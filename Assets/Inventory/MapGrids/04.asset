@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7900c090e4cb92d439809cb123781752, type: 3}
+  m_Name: 04
+  m_EditorClassIdentifier: 
+  mapColor: {r: 1, g: 1, b: 1, a: 1}
+  position: 4
+  transportItem: {fileID: 0}
+  itemNum: 0
+  arriveItem: {fileID: 0}
+  isArrive: 0
+  price: 50000
+  product: {fileID: 11400000, guid: be76d04c1fb413645beeb48bfa50d3e7, type: 2}
+  mapName: "\u666F\u5B81"
+  inTradeItem:
+  - {fileID: 11400000, guid: 8e38bb59df9d58347aa512156b2b7d2c, type: 2}
+  - {fileID: 11400000, guid: 1edf2e2b401c3b347ae077d14396f6d2, type: 2}
+  - {fileID: 11400000, guid: c00d37d617884e74a944735b36603e7e, type: 2}
+  mapimg: {fileID: 21300000, guid: 6abb8b9e15bebfd48b2a39b38b4382a8, type: 3}

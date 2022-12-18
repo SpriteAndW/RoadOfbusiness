@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bec6c9d76d83b8f49ae7003af220dace, type: 3}
+  m_Name: TradeDelegate 3
+  m_EditorClassIdentifier: 
+  playdays: 11
+  deadline: 6
+  reqItem: {fileID: 11400000, guid: 59a1cfe7ba976434a93523f1dddb6a31, type: 2}
+  address: {fileID: 11400000, guid: a8ca327732a55eb4fa265e2a5cc03404, type: 2}
+  rewardWealth: 0
+  rewardCredit: 0
+  Deposit: 0
+  itemNum: 700
+  isAccept: 0

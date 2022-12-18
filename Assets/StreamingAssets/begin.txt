@@ -1,0 +1,6 @@
+Me:123456
+You:654321
+Me:1234567
+You:7654321
+You:1111111
+choose:FarmerVoc,BusiVoc

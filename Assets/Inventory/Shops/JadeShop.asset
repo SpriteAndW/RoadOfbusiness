@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee04fd517e73a3641beefd7fc3aaca4f, type: 3}
+  m_Name: JadeShop
+  m_EditorClassIdentifier: 
+  myBag: {fileID: 11400000, guid: caadb9214bf93b840a144caec4ab1477, type: 2}
+  shopName: "\u53E4\u73A9\u5E97"
+  openShopPrice: 10000
+  deductionItem:
+  - {fileID: 11400000, guid: 6ee00e144bdf64a4897cc0900e3eab32, type: 2}
+  - {fileID: 11400000, guid: e6fe3f80f3babf6489b657306e1397ca, type: 2}
+  costItemNum: 6400000064000000
+  passengerFlow: 0
+  profit: 0
+  salary: 0
+  famous: 1
+  shopImg: {fileID: 21300000, guid: 59ff258b4b452f8438d806b9dca35e8d, type: 3}
+  totalPassengerFlow: 0

@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5dd05b54af8c2343bc6c0dcb4487a86, type: 3}
+  m_Name: SoundDetailData_SO
+  m_EditorClassIdentifier: 
+  soundDetailList:
+  - SoundType: 1
+    soundClip: {fileID: 8300000, guid: 1009abda6bc1c9a4c8d61defab99bc19, type: 3}
+    soundPitchMin: 0.6
+    soundPitchMax: 1.2
+    soundVolume: 1
+  - SoundType: 2
+    soundClip: {fileID: 8300000, guid: f47cf758fe56dc84286a654cbd535af4, type: 3}
+    soundPitchMin: 0.6
+    soundPitchMax: 1.2
+    soundVolume: 1
+  - SoundType: 3
+    soundClip: {fileID: 8300000, guid: e80c1fdafdebe78458c35b30717bac41, type: 3}
+    soundPitchMin: 0.1
+    soundPitchMax: 1.2
+    soundVolume: 0.8
+  - SoundType: 4
+    soundClip: {fileID: 8300000, guid: e7d73634cd118b34f9cab4d7a9fff004, type: 3}
+    soundPitchMin: 1
+    soundPitchMax: 1.2
+    soundVolume: 0.6
+  - SoundType: 5
+    soundClip: {fileID: 8300000, guid: f5a94e0cfa943ec458e5829fb9427433, type: 3}
+    soundPitchMin: 1
+    soundPitchMax: 1.2
+    soundVolume: 0.6
+  - SoundType: 6
+    soundClip: {fileID: 8300000, guid: 2c1535bcc130558448aa95aa65229bb8, type: 3}
+    soundPitchMin: 1
+    soundPitchMax: 1.2
+    soundVolume: 0.6
+  - SoundType: 7
+    soundClip: {fileID: 8300000, guid: e62a7ba522175554c9eaa747eb0f7446, type: 3}
+    soundPitchMin: 1
+    soundPitchMax: 1.2
+    soundVolume: 0.6
+  - SoundType: 8
+    soundClip: {fileID: 8300000, guid: a7bcce4aa3de405429624448231c8096, type: 3}
+    soundPitchMin: 1
+    soundPitchMax: 1.2
+    soundVolume: 0.6
+  - SoundType: 9
+    soundClip: {fileID: 8300000, guid: 34f834010eec06847aac6e992607e3c1, type: 3}
+    soundPitchMin: 1
+    soundPitchMax: 1.2
+    soundVolume: 0.6
+  - SoundType: 10
+    soundClip: {fileID: 8300000, guid: e62a7ba522175554c9eaa747eb0f7446, type: 3}
+    soundPitchMin: 1
+    soundPitchMax: 1.2
+    soundVolume: 0.6
+  - SoundType: 11
+    soundClip: {fileID: 8300000, guid: e62a7ba522175554c9eaa747eb0f7446, type: 3}
+    soundPitchMin: 1
+    soundPitchMax: 1.2
+    soundVolume: 0.6

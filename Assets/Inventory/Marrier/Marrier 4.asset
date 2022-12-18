@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87c5b227c0e78414eaf6efc94f64c9a3, type: 3}
+  m_Name: Marrier 4
+  m_EditorClassIdentifier: 
+  Info:
+  - "\u5979\u7684\u7236\u4EB2\u597D\u50CF\u53EB\u798F\u8001\u677F"
+  - "\u5979\u7684\u7236\u4EB2\u597D\u50CF\u662F\u6C34\u7A3B\u7684\u4F9B\u8D27\u5546"
+  - "\u5979\u597D\u50CF\u559C\u6B22\u5E03\u5339"
+  - "\u5979\u597D\u50CF\u559C\u6B22\u8089"
+  - "\u5979\u597D\u50CF\u559C\u6B22\u76D0"
+  - "\u5979\u597D\u50CF\u8BA8\u538C\u5E03\u5339"
+  - "\u5979\u597D\u50CF\u8BA8\u538C\u53E4\u73A9"
+  - "\u5979\u597D\u50CF\u8BA8\u538C\u4E1D\u7EF8"
+  - "\u5979\u7684\u540D\u5B57\u597D\u50CF\u53EB"
+  face: {fileID: 21300000, guid: f976eb3a81749f4428e1a87073aa03ea, type: 3}
+  father: {fileID: 11400000, guid: e1e9d02d3631edc4b9a89bc5079d8ee2, type: 2}
+  favoItem:
+  - {fileID: 11400000, guid: 624fe5eef5c38384dbf6d62c403496ec, type: 2}
+  - {fileID: 11400000, guid: 7d1fbd31b1fc231448c5623ae0279a4e, type: 2}
+  - {fileID: 11400000, guid: 133aaf654f2208649bbcc1e28fbc62ea, type: 2}
+  hateItem:
+  - {fileID: 11400000, guid: 624fe5eef5c38384dbf6d62c403496ec, type: 2}
+  - {fileID: 11400000, guid: 6ee00e144bdf64a4897cc0900e3eab32, type: 2}
+  - {fileID: 11400000, guid: ccee4765e5448554797f7879d11c299f, type: 2}
+  intimacy: 0
+  mName: "\u5C97\u7EFF\u501A"
+  isGift: 0

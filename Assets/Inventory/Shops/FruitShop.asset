@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee04fd517e73a3641beefd7fc3aaca4f, type: 3}
+  m_Name: FruitShop
+  m_EditorClassIdentifier: 
+  myBag: {fileID: 11400000, guid: caadb9214bf93b840a144caec4ab1477, type: 2}
+  shopName: "\u9A7F\u7AD9"
+  openShopPrice: 2000
+  deductionItem:
+  - {fileID: 11400000, guid: c86ee1f808f0e524aac9692bbf9d926d, type: 2}
+  - {fileID: 11400000, guid: 16815f46710cdfb43a84d8ab7df2b2c0, type: 2}
+  costItemNum: 6400000064000000
+  passengerFlow: 0
+  profit: 0
+  salary: 0
+  famous: 1
+  shopImg: {fileID: 21300000, guid: 9d0bcd4d40ff062409a8ba26aa90ffd4, type: 3}
+  totalPassengerFlow: 0
